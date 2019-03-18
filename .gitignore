@@ -1,0 +1,6 @@
+*.R~
+*~
+dbExport.jar
+notes.org
+*.*#
+.#*
